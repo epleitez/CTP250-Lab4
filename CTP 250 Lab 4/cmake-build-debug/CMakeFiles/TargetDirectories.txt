@@ -1,0 +1,3 @@
+/Users/emelypleitez/CLionProjects/CTP 250 Lab 4/cmake-build-debug/CMakeFiles/CTP_250_Lab_4.dir
+/Users/emelypleitez/CLionProjects/CTP 250 Lab 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emelypleitez/CLionProjects/CTP 250 Lab 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
